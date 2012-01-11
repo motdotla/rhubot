@@ -1,6 +1,6 @@
 # Returns a random Pun
 #
-# hub pun me
+# hubot pun me
 
 module.exports = (robot) ->
   robot.respond /(say a )?(bad)?pun( me)?$/i , (msg) ->
