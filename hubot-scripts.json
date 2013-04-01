@@ -1,1 +1,22 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee"]
+[
+  "redis-brain.coffee", 
+  "tweet.coffee", 
+  "shipit.coffee",
+  "cat.coffee",
+  "conversation.coffee",
+  "gifbin.coffee",
+  "google.coffee",
+  "insult.coffee",
+  "isup.coffee",
+  "javascript-sandbox.coffee",
+  "mtg.coffee",
+  "news.coffee",
+  "polite.coffee",
+  "remind.coffee",
+  "ruby.coffee",
+  "sensitive.coffee",
+  "sweetdude.coffee",
+  "talkative.coffee",
+  "walmart.coffee",
+  "yoda-pictures.coffee"
+]
